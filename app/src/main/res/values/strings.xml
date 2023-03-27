@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">grocery</string>
+    <string name="ongoing"><u>Ongoing</u></string>
+</resources>
