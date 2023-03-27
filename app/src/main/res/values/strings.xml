@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">grocery</string>
     <string name="ongoing"><u>Ongoing</u></string>
+    <string name="descirption">Ghirardelli is actually a U.S. division of Lindt and Spugli chocolates, but is still a brand in its own right, na din fact,
+it started as its own brand.!<b><u> Read more </u></b></string>
+
 </resources>
